@@ -1,0 +1,120 @@
+header{
+    background-color: rgb(3, 159, 187);
+    width: 100%;
+    height: 60px;
+}
+
+#item_topo{
+    margin-left: 700px;
+    height: 60px;
+    float: left;
+}
+
+h1{
+    float: left;
+    margin: 10px auto;
+}
+
+img{
+    margin-right: 40px;
+    float: left;
+}
+
+#container{
+    width: 100%;
+    height: 100%;
+}
+
+.btnopt{
+    background-size: 30px 30px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    float: left;
+    margin: 10px auto;
+}
+
+#btndlt{
+    background-image: url(../imagens/excluir.png);
+    float: left;
+    margin-left: 20px;
+}
+
+#btnedit{
+    background-image: url(../imagens/editar.png);
+    float: left;
+    margin-left: 65px;
+}
+
+th{
+    border: 2px solid rgb(179, 179, 179);
+    border-collapse: collapse;
+    width: 200px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+table{
+    border: 2px solid rgb(179, 179, 179);
+    margin-top: 30px;
+    margin-left: 250px;
+    float: left;
+    border-collapse: collapse;
+}
+
+#ncadastro{
+    float: left;
+    width: 150px;
+    height: 35px;
+    margin-top: 50px;
+    margin-left: 100px;
+    color: white;
+    background-color: rgb(3, 159, 187);
+    border-radius: 5px;
+    cursor: pointer;
+    border:1px solid rgb(179, 179, 179);
+}
+
+td{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+tr{
+    border:1px solid rgb(179, 179, 179);
+}
+
+form{
+    float: left;
+}
+
+#pesquisa{
+    float: left;
+    margin-top: 100px;
+    color: white;
+    background-color: rgb(3, 159, 187);
+    height: 30px;
+    border-radius: 5px;
+    border:1px solid rgb(179, 179, 179);
+}
+
+#pesquisa p{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 4px;
+}
+
+#pesquisa input{
+    float: left;
+    width: 1330px;
+    border-radius: 10px;
+    margin: 4px;
+    border:1px solid rgb(179, 179, 179);
+}
+
+
+
+
+
